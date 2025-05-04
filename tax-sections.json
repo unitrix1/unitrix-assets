@@ -1,0 +1,227 @@
+[
+  {
+     "code":"6CA",
+     "type":"TCS",
+     "description":"Alcoholic liquor for human consumption"
+  },
+  {
+     "code":"6CB",
+     "type":"TCS",
+     "description":"Timber obtained under forest lease"
+  },
+  {
+     "code":"6CC",
+     "type":"TCS",
+     "description":"Timber obtained by any mode other than a forest lease"
+  },
+  {
+     "code":"6CD",
+     "type":"TCS",
+     "description":"Any other forest produce (not being tendu leaves)"
+  },
+  {
+     "code":"6CE",
+     "type":"TCS",
+     "description":"Scrap"
+  },
+  {
+     "code":"6CI",
+     "type":"TCS",
+     "description":"Tendu leaves"
+  },
+  {
+     "code":"6CJ",
+     "type":"TCS",
+     "description":"Sale of minerals, being coal or lignite or iron ore"
+  },
+  {
+     "code":"6CK",
+     "type":"TCS",
+     "description":"Cash sale of bullion and jewellery"
+  },
+  {
+     "code":"6CF",
+     "type":"TCS",
+     "description":"Parking lots"
+  },
+  {
+     "code":"6CG",
+     "type":"TCS",
+     "description":"Toll plaza"
+  },
+  {
+     "code":"6CH",
+     "type":"TCS",
+     "description":"Mine or quarry"
+  },
+  {
+     "code":"6CL",
+     "type":"TCS",
+     "description":"Sale of motor vehicle"
+  },
+  {
+     "code":"6CO",
+     "type":"TCS",
+     "description":"Purchase of overseas tour program package"
+  },
+  {
+     "code":"6CP",
+     "type":"TCS",
+     "description":"Educational loan taken from financial institution mentioned in section 80E"
+  },
+  {
+     "code":"6CQ",
+     "type":"TCS",
+     "description":"Remittance under LRS for purpose other than for purchase of overseas tour package or for educational loan taken from financial institution"
+  },
+  {
+     "code":"6CR",
+     "type":"TCS",
+     "description":"Sale of goods"
+  },
+  {
+     "code":"193",
+     "type":"TDS",
+     "description":"Interest on securities"
+  },
+  {
+     "code":"194",
+     "type":"TDS",
+     "description":"Dividend"
+  },
+  {
+     "code":"194A",
+     "type":"TDS",
+     "description":"Other Interest than securities"
+  },
+  {
+     "code":"194B",
+     "type":"TDS",
+     "description":"Lotteries Winnings"
+  },
+  {
+     "code":"194BA",
+     "type":"TDS",
+     "description":"Winnings from online games"
+  },
+  {
+     "code":"194BB",
+     "type":"TDS",
+     "description":"Horse Race"
+  },
+  {
+     "code":"194C",
+     "type":"TDS",
+     "description":"Payment of contractors HUF/Indiv and Payment of contractors for Others"
+  },
+  {
+     "code":"194D",
+     "type":"TDS",
+     "description":"Insurance Commission"
+  },
+  {
+     "code":"194DA",
+     "type":"TDS",
+     "description":"Insurance Commission"
+  },
+  {
+     "code":"194EE",
+     "type":"TDS",
+     "description":"Deposits in NSS"
+  },
+  {
+     "code":"194E",
+     "type":"TDS",
+     "description":"Payments to non-resident sportsmen or sports association"
+  },
+  {
+     "code":"194F",
+     "type":"TDS",
+     "description":"Re-purchase By Mutual Funds"
+  },
+  {
+     "code":"194G",
+     "type":"TDS",
+     "description":"Commission - prize on lottery"
+  },
+  {
+     "code":"194H",
+     "type":"TDS",
+     "description":"Commission or Brokerage"
+  },
+  {
+     "code":"194IA",
+     "type":"TDS",
+     "description":"Payments under 194IA"
+  },
+  {
+     "code":"194IB",
+     "type":"TDS",
+     "description":"Rent not covered under 194I"
+  },
+  {
+     "code":"194IC",
+     "type":"TDS",
+     "description":"Payments Under Specified Agreement"
+  },
+  {
+     "code":"194I",
+     "type":"TDS",
+     "description":"Rent on land or furniture etc and Rent on plant and machinery"
+  },
+  {
+     "code":"194J",
+     "type":"TDS",
+     "description":"Professional Fees"
+  },
+  {
+     "code":"194LA",
+     "type":"TDS",
+     "description":"Compensation on acquisition"
+  },
+  {
+     "code":"194M",
+     "type":"TDS",
+     "description":"Payment To Resident Contractors And Professionals"
+  },
+  {
+     "code":"192",
+     "type":"TDS",
+     "description":"Salaries"
+  },
+  {
+     "code":"194O",
+     "type":"TDS",
+     "description":"e-commerce participant"
+  },
+  {
+     "code":"194Q",
+     "type":"TDS",
+     "description":"Payment of purchase of goods"
+  },
+  {
+     "code":"195",
+     "type":"TDS",
+     "description":"Other sums payable to a non-resident"
+  },
+  {
+     "code":"194R",
+     "type":"TDS",
+     "description":"Benefit or perquisite"
+  },
+  {
+     "code":"194S",
+     "type":"TDS",
+     "description":"Transfer of a virtual digital asset"
+  },
+  {
+     "code":"194T",
+     "type":"TDS",
+     "description":"Payment by Partnership Firm to Partners"
+  },
+  {
+     "code":"Others",
+     "type":"TDS",
+     "description":"Others"
+  }
+]
